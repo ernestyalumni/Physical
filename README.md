@@ -13,6 +13,8 @@ For databasing and querying, I used <i>SQLAlchemy</i>.  I highly recommend havin
 
 <p>i.e. get all the Boltzmann constants and constants that match "Boltzmann" such as the Stefan-Boltzmann constant, sourced from the National Institute of Standards and Technology (NIST), USA.    </p>
 
+<p>Note, “This product uses data provided by the National Institute of Standards and Technology (NIST) but is not endorsed or certified by NIST.”</p>
+
 <p>Then do</p>
 
 >>> Boltzconst = qNISTPhysConst.filter( descNIST.match("Boltzmann") ).all()[0]
