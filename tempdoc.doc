@@ -36,7 +36,9 @@
 ## twitter      : ernestyalumni                                                   
 ## youtube      : ernestyalumni                                                   
 ## wordpress    : ernestyalumni                                                    
-##                                                                                  
+##  
+## “This product uses data provided by the National Institute of Standards and Technology (NIST) but is not endorsed or certified by NIST.”
+## NIST SRD 121
 ############################################################################ 
 
 Physical - web scrape, format and clean data, and (SQL) database Physical Constants, Units, and Conversions.  
