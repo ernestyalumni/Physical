@@ -34,7 +34,9 @@
 ## twitter      : ernestyalumni                                                   
 ## youtube      : ernestyalumni                                                   
 ## wordpress    : ernestyalumni                                                    
-##                                                                                  
+## 
+## Note, “This product uses data provided by the National Institute of Standards and Technology (NIST) but is not endorsed or certified by NIST.”
+## NIST SRD number : NIST SRD 121
 ############################################################################ 
 
 import urllib2
