@@ -63,7 +63,7 @@ else:
 
     _iamauser = raw_input("Input your username: ")
     if _iamauser == "":
-        _iamauser = "patrickbateman"
+        _iamauser = "username"
     _password = raw_input("Input your password: ")
 
     engine  = create_engine("postgresql://"+_iamauser+":"+_password+"@localhost/Physical")
